@@ -1,0 +1,21 @@
+/* colori testo */
+
+h2,
+p{
+    color: white;
+}
+
+.text-black{
+    color: black;
+}
+
+/* padding */
+
+[class^="col"]{
+    padding: 25px; 
+}
+
+[class^="row"]{
+    margin: 10px;
+    
+}
